@@ -1,0 +1,28 @@
+
+
+input {
+  width: 80%;
+  padding: 10px;
+  border: none;
+}
+
+button {
+  border: none;
+  padding: 10px;
+  margin: 0 5px;
+}
+.allTodos {
+  list-style: none;
+}
+.singleTodo {
+  border-radius: 50px;
+  margin: 10px 0;
+  background-color: #5dadf8;
+  padding: 10px 20px;
+  display: flex;
+  width: 370px;
+  align-items: center;
+}
+.todoText {
+  flex: 1;
+}
